@@ -1,5 +1,5 @@
 
-# RTL Stopwatch for Zynq-7000 SoC
+# Sport Stopwatch
 
 This project implements an RTL-based stopwatch with the following features:
 
